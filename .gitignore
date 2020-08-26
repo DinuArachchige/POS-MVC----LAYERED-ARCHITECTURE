@@ -1,0 +1,7 @@
+*.log
+*.iml
+*.xml
+.idea/**
+*.class
+*.jar
+node_modules/**
